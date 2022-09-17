@@ -6,7 +6,7 @@
 > Setting up sample project with Html, Css and Js.
 
 ## Live Demo
-- [Click to View]()
+- [Click to View](https://jash-debug.github.io/First-Capstone-Project/)
 
 ## Acknowledgments
 - Original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07)
