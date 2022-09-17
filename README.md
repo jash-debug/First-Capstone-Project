@@ -8,6 +8,9 @@
 ## Live Demo
 - [Click to View](https://jash-debug.github.io/First-Capstone-Project/)
 
+## Project Overview
+-[Click to watch the Overview Video](https://www.loom.com/share/206263fc805647938fc1da28394d7390)
+
 ## Acknowledgments
 - Original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07)
 - Svg Icons from [svgrepo](https://www.svgrepo.com/)
